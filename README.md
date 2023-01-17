@@ -1,4 +1,4 @@
-# python-challenge
+# python-Challenge
 
 In this assignment, you'll complete two challenges in which you'll apply your new Python skills. 
 
